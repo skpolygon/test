@@ -1,0 +1,29 @@
+﻿LastName: Колпачёв
+FirstName: Виктор
+FatherName: Емельянович
+DateOfBirth: 04.06.1985
+Phone: +7 (993) 769-95-81
+Login: viktor2034
+Password: 29219e3da
+Email: viktor2034@hotmail.com
+PasportNum: 4262 660581
+PasportCode: 470-879
+PasportOtd: ОВД России по г. Иваново
+PasportDate: 17.05.2020
+inn_fiz: 437369017286
+snils: 96442114105
+oms: 3827647569868116
+ogrn: 6217110720117
+kpp: 962055330
+Address: Россия, г. Иваново, Восточная ул., д. 1 кв.93
+Country: Россия
+Region: Костромская область
+bankBIK: 253446779
+bankCorr: 40957057400000001083
+bankINN: 1324956482
+bankKPP: 140772930
+bankNum: 50861022800000006798
+bankClient: Viktor Kolpachev
+bankCard: 5723 9578 3192 3647
+bankDate: 03/26
+bankCVC: 537
