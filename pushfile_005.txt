@@ -1,0 +1,29 @@
+﻿LastName: Ракова
+FirstName: Катерина
+FatherName: Ефимовна
+DateOfBirth: 13.04.1970
+Phone: +7 (944) 609-93-35
+Login: katerina13041970
+Password: 24a37ec21
+Email: katerina13041970@ya.ru
+PasportNum: 4224 472435
+PasportCode: 380-925
+PasportOtd: Отделением УФМС России по г. Муром
+PasportDate: 27.10.2016
+inn_fiz: 586379136542
+snils: 68307097720
+oms: 8510892113904427
+ogrn: 8141503541193
+kpp: 570246281
+Address: Россия, г. Муром, Колхозная ул., д. 24 кв.100
+Country: Россия
+Region: Краснодарский край
+bankBIK: 573482345
+bankCorr: 50651604400000001626
+bankINN: 4991575533
+bankKPP: 394897680
+bankNum: 50635340400000002745
+bankClient: Katerina Rakova
+bankCard: 5682 4632 8504 8434
+bankDate: 09/28
+bankCVC: 177

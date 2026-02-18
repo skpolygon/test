@@ -1,0 +1,29 @@
+﻿LastName: Ёлкина
+FirstName: Дарья
+FatherName: Климентьевна
+DateOfBirth: 06.05.1987
+Phone: +7 (919) 424-64-78
+Login: darya2901
+Password: 5e4851f05
+Email: darya2901@hotmail.com
+PasportNum: 4259 861495
+PasportCode: 170-781
+PasportOtd: Отделением УФМС России по г. Артем
+PasportDate: 06.04.2018
+inn_fiz: 994192890561
+snils: 95474379161
+oms: 8097073872541757
+ogrn: 3156339217010
+kpp: 402589932
+Address: Россия, г. Артем, Новоселов ул., д. 10 кв.152
+Country: Россия
+Region: Челябинская область
+bankBIK: 694686811
+bankCorr: 50790897300000005139
+bankINN: 9813957277
+bankKPP: 270810182
+bankNum: 50924476500000009302
+bankClient: Darya Elkina
+bankCard: 4292 8443 4163 1908
+bankDate: 11/27
+bankCVC: 306

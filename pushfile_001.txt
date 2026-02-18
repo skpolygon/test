@@ -1,0 +1,29 @@
+﻿LastName: Зайцева
+FirstName: Антонина
+FatherName: Никитьевна
+DateOfBirth: 01.09.1970
+Phone: +7 (911) 216-49-93
+Login: antonina71
+Password: 20b5d16c7
+Email: antonina71@hotmail.com
+PasportNum: 4724 173991
+PasportCode: 980-978
+PasportOtd: ОУФМС России по г. Краснодар
+PasportDate: 03.03.2016
+inn_fiz: 317607480370
+snils: 50871427285
+oms: 2777374592771273
+ogrn: 5100506920894
+kpp: 610735781
+Address: Россия, г. Краснодар, Заречный пер., д. 2 кв.73
+Country: Россия
+Region: Иркутская область
+bankBIK: 722299223
+bankCorr: 50776973400000003084
+bankINN: 9069601966
+bankKPP: 940046778
+bankNum: 40551662900000006693
+bankClient: Antonina Zayceva
+bankCard: 4724 8374 9368 5158
+bankDate: 07/28
+bankCVC: 448
