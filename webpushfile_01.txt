@@ -1,0 +1,29 @@
+﻿LastName: Федулова
+FirstName: Клавдия
+FatherName: Макаровна
+DateOfBirth: 28.04.1967
+Phone: +7 (956) 844-43-64
+Login: klavdiya28041967
+Password: 56787444c
+Email: klavdiya28041967@ya.ru
+PasportNum: 4278 431116
+PasportCode: 500-103
+PasportOtd: Отделением УФМС России по г. Кисловодск
+PasportDate: 01.02.2026
+inn_fiz: 218462554070
+snils: 82245781003
+oms: 4411361238752749
+ogrn: 2172369654774
+kpp: 162474593
+Address: Россия, г. Кисловодск, Партизанская ул., д. 10 кв.176
+Country: Россия
+Region: Белгородская область
+bankBIK: 781350376
+bankCorr: 50727661700000001854
+bankINN: 3875014711
+bankKPP: 264228355
+bankNum: 40610563100000009688
+bankClient: Klavdiya Fedulova
+bankCard: 4683 6203 7921 4760
+bankDate: 08/27
+bankCVC: 809

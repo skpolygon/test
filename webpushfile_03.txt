@@ -1,0 +1,29 @@
+﻿LastName: Бабыкин
+FirstName: Николай
+FatherName: Константинович
+DateOfBirth: 05.01.1988
+Phone: +7 (907) 679-16-72
+Login: nikolay.babykin
+Password: d65d0815c
+Email: nikolay.babykin@hotmail.com
+PasportNum: 4685 936961
+PasportCode: 860-729
+PasportOtd: Управление внутренних дел по г. Севастополь
+PasportDate: 31.12.2021
+inn_fiz: 158517877823
+snils: 41138302933
+oms: 1361903269196505
+ogrn: 6166908210430
+kpp: 464620388
+Address: Россия, г. Севастополь, Молодежная ул., д. 15 кв.23
+Country: Россия
+Region: Республика Калмыкия
+bankBIK: 417937116
+bankCorr: 40270819400000007839
+bankINN: 4247496457
+bankKPP: 436483705
+bankNum: 40540463400000003942
+bankClient: Nikolay Babykin
+bankCard: 4703 7619 1702 7560
+bankDate: 12/27
+bankCVC: 166

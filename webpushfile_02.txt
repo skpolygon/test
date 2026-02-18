@@ -1,0 +1,29 @@
+﻿LastName: Ясинская
+FirstName: Людмила
+FatherName: Герасимовна
+DateOfBirth: 06.02.1989
+Phone: +7 (965) 875-32-88
+Login: lyudmila2876
+Password: 8ab0cdcb9
+Email: lyudmila2876@rambler.ru
+PasportNum: 4237 565975
+PasportCode: 830-271
+PasportOtd: Управление внутренних дел по г. Омск
+PasportDate: 03.10.2018
+inn_fiz: 469808221479
+snils: 41623509555
+oms: 8391212895620098
+ogrn: 5158708293519
+kpp: 909108624
+Address: Россия, г. Омск, Пионерская ул., д. 21 кв.1
+Country: Россия
+Region: Самарская область
+bankBIK: 669954581
+bankCorr: 50649362400000005709
+bankINN: 9765470806
+bankKPP: 706305095
+bankNum: 50699425100000004452
+bankClient: Lyudmila YAsinskaya
+bankCard: 5134 1781 9755 6523
+bankDate: 08/26
+bankCVC: 178
