@@ -1,0 +1,29 @@
+﻿LastName: Смелоч
+FirstName: Петр
+FatherName: Иванович
+DateOfBirth: 22.04.1966
+Phone: +7 (968) 115-67-49
+Login: petr.smeloch
+Password: 8e6838038
+Email: petr.smeloch@rambler.ru
+PasportNum: 4171 537994
+PasportCode: 760-755
+PasportOtd: Отделением УФМС России в г. Коломна
+PasportDate: 22.06.2022
+inn_fiz: 315474490238
+snils: 13496435988
+oms: 5029273131444502
+ogrn: 8100014240065
+kpp: 175695043
+Address: Россия, г. Коломна, Ленина В.И.ул., д. 24 кв.26
+Country: Россия
+Region: Липецкая область
+bankBIK: 314463961
+bankCorr: 40908902300000004355
+bankINN: 5859936417
+bankKPP: 318690413
+bankNum: 40146342300000003043
+bankClient: Petr Smeloch
+bankCard: 5591 9459 9944 1423
+bankDate: 02/27
+bankCVC: 756
